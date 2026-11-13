@@ -10,4 +10,4 @@ Public files that wallets and other apps load by URL.
 https://raw.githubusercontent.com/Enhanced-Finance/public-assets/main/token-logo.png
 ```
 
-Wallets save this URL when a user adds a token, so don't move or rename the file.
+Wallets save this URL when a user adds a token.
